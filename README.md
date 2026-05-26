@@ -1,0 +1,1 @@
+This project involves using an online multimodal dataset ( CTU-CHB Intrapartum Cardiotocography Database to try and predict fetal distress using pH as the target marker. We use 2 models - XGBoost and LightGBM to try and find a reliable way to identify contributory markers which can increase the likelihood of predicting acidosis early in the fetal stage. 
